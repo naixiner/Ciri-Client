@@ -1,0 +1,14 @@
+c:\users\administrator\documents\visual studio 2015\Projects\CiriDemo\CiriDemo\bin\Debug\CiriDemo.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\CiriDemo\CiriDemo\bin\Debug\CiriDemo.exe
+c:\users\administrator\documents\visual studio 2015\Projects\CiriDemo\CiriDemo\bin\Debug\CiriDemo.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\CiriDemo\CiriDemo\obj\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2015\Projects\CiriDemo\CiriDemo\obj\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2015\Projects\CiriDemo\CiriDemo\obj\Debug\CiriDemo_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2015\Projects\CiriDemo\CiriDemo\obj\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2015\Projects\CiriDemo\CiriDemo\obj\Debug\CiriDemo.g.resources
+c:\users\administrator\documents\visual studio 2015\Projects\CiriDemo\CiriDemo\obj\Debug\CiriDemo.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\CiriDemo\CiriDemo\obj\Debug\CiriDemo.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\CiriDemo\CiriDemo\obj\Debug\CiriDemo.exe
+c:\users\administrator\documents\visual studio 2015\Projects\CiriDemo\CiriDemo\obj\Debug\CiriDemo.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\CiriDemo\CiriDemo\obj\Debug\CiriDemo_MarkupCompile.lref
+C:\Users\Administrator\documents\visual studio 2015\Projects\CiriDemo\CiriDemo\obj\Debug\CiriDemo.csprojResolveAssemblyReference.cache
